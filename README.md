@@ -1,5 +1,18 @@
 # 💫 About Me:
-I'm currently working on Computer Vision and Deep Learning<br>I'm looking to collaborate on problem-solving projects, including but not  limited to deep learning tasks, in both machine learning and general Python/C++ programming domains.<br>I am currently learning latest computer vision techniques and C++ 
+
+I work at the intersection of **Artificial Intelligence and Football Analytics**, focusing on **Computer Vision, Deep Learning, and data-driven decision-making in sports**.
+
+My work explores AI applications in football such as **player tracking, tactical analysis, performance evaluation, and video-based understanding of the game**.
+
+Previously, I worked with **health-related data**, including **medical imaging** and **LLM-based systems**, gaining experience with real-world data, deep learning pipelines, and applied AI workflows.
+
+### Interests & Collaboration
+- Computer Vision for sports analytics  
+- Deep Learning applied to football and health data  
+- Machine Learning experimentation and evaluation  
+- Python-based AI systems  
+
+I am open to collaboration on **AI in sports, football analytics, and applied machine learning projects**.
 
 
 ## 🌐 Socials:
